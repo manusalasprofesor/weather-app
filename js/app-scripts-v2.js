@@ -1,4 +1,4 @@
-const apiClave = 'f0534263d6f32270a32c7102d6eb5cc6';
+const apiClave = '#'; // colocar la API Key de nuestra cuenta de OpenWeather Map
 let temperaturaValor = document.querySelectorAll('.temperatura-valor');
 let temperaturaDescripcion = document.querySelectorAll('.temperatura-descripcion');
 let ubicacion = document.querySelectorAll('.ubicacion');
